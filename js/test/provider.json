@@ -1,0 +1,273 @@
+{
+  "data": [
+    {
+      "id": "hnye",
+      "type": "providers",
+      "attributes": {
+        "name": "4TU.ResearchData",
+        "displayName": "4TU.ResearchData",
+        "symbol": "HNYE",
+        "website": "https://data.4tu.nl/info",
+        "description": "4TU.ResearchData is an international data repository for science, engineering and design. Its services include curation, sharing, long-term access and preservation of research datasets. These services are available to anyone around the world. In addition, 4TU.ResearchData also offers training and resources to researchers to support them in making research data Findable, Accessible, Interoperable and Reproducible (FAIR).",
+        "region": "EMEA",
+        "country": "NL",
+        "logoUrl": null,
+        "memberType": "consortium_organization",
+        "organizationType": "other",
+        "focusArea": "engineeringAndTechnology",
+        "nonProfitStatus": "non-profit",
+        "isActive": true,
+        "joined": null,
+        "rorId": null,
+        "created": "2020-09-02T14:27:11.000Z",
+        "updated": "2023-04-24T19:21:34.000Z",
+        "doiEstimate": 0
+      },
+      "relationships": {
+        "clients": {
+          "data": [
+            {
+              "id": "delft.data4tu",
+              "type": "clients"
+            }
+          ]
+        },
+        "prefixes": {
+          "data": [
+            {
+              "id": "10.4121",
+              "type": "prefixes"
+            }
+          ]
+        },
+        "contacts": {
+          "data": [
+            {
+              "id": "92d3a372-e21d-468c-957b-2c30c2516c9e",
+              "type": "contacts"
+            }
+          ]
+        },
+        "consortium": {
+          "data": {
+            "id": "delftco",
+            "type": "providers"
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 1341,
+    "totalPages": 1341,
+    "page": 1,
+    "years": [
+      {
+        "id": "2023",
+        "title": "2023",
+        "count": 106
+      },
+      {
+        "id": "2022",
+        "title": "2022",
+        "count": 192
+      },
+      {
+        "id": "2021",
+        "title": "2021",
+        "count": 259
+      },
+      {
+        "id": "2020",
+        "title": "2020",
+        "count": 640
+      },
+      {
+        "id": "2019",
+        "title": "2019",
+        "count": 51
+      },
+      {
+        "id": "2018",
+        "title": "2018",
+        "count": 68
+      },
+      {
+        "id": "2017",
+        "title": "2017",
+        "count": 16
+      },
+      {
+        "id": "2016",
+        "title": "2016",
+        "count": 4
+      },
+      {
+        "id": "2014",
+        "title": "2014",
+        "count": 2
+      },
+      {
+        "id": "2013",
+        "title": "2013",
+        "count": 1
+      }
+    ],
+    "regions": [
+      {
+        "id": "emea",
+        "title": "Europe, Middle East and Africa",
+        "count": 500
+      },
+      {
+        "id": "amer",
+        "title": "Americas",
+        "count": 265
+      },
+      {
+        "id": "apac",
+        "title": "Asia and Pacific",
+        "count": 34
+      }
+    ],
+    "memberTypes": [
+      {
+        "id": "consortium_organization",
+        "title": "Consortium Organization",
+        "count": 1054
+      },
+      {
+        "id": "direct_member",
+        "title": "Direct Member",
+        "count": 220
+      },
+      {
+        "id": "consortium",
+        "title": "Consortium",
+        "count": 57
+      },
+      {
+        "id": "member_only",
+        "title": "Member Only",
+        "count": 8
+      },
+      {
+        "id": "developer",
+        "title": "Developer",
+        "count": 2
+      }
+    ],
+    "organizationTypes": [
+      {
+        "id": "academicInstitution",
+        "title": "Academic Institution",
+        "count": 308
+      },
+      {
+        "id": "researchInstitution",
+        "title": "Research Institution",
+        "count": 139
+      },
+      {
+        "id": "governmentAgency",
+        "title": "Government Agency",
+        "count": 67
+      },
+      {
+        "id": "serviceProvider",
+        "title": "Service Provider",
+        "count": 50
+      },
+      {
+        "id": "other",
+        "title": "Other",
+        "count": 40
+      },
+      {
+        "id": "nationalInstitution",
+        "title": "National Institution",
+        "count": 36
+      },
+      {
+        "id": "publisher",
+        "title": "Publisher",
+        "count": 11
+      },
+      {
+        "id": "professionalSociety",
+        "title": "Professional Society",
+        "count": 9
+      },
+      {
+        "id": "internationalOrganization",
+        "title": "International Organization",
+        "count": 1
+      }
+    ],
+    "focusAreas": [
+      {
+        "id": "general",
+        "title": "General",
+        "count": 247
+      },
+      {
+        "id": "naturalSciences",
+        "title": "Natural Sciences",
+        "count": 86
+      },
+      {
+        "id": "engineeringAndTechnology",
+        "title": "Engineering And Technology",
+        "count": 60
+      },
+      {
+        "id": "medicalAndHealthSciences",
+        "title": "Medical And Health Sciences",
+        "count": 54
+      },
+      {
+        "id": "socialSciences",
+        "title": "Social Sciences",
+        "count": 30
+      },
+      {
+        "id": "humanities",
+        "title": "Humanities",
+        "count": 19
+      },
+      {
+        "id": "agriculturalSciences",
+        "title": "Agricultural Sciences",
+        "count": 12
+      }
+    ],
+    "nonProfitStatuses": [
+      {
+        "id": "non-profit",
+        "title": "Non Profit",
+        "count": 1307
+      },
+      {
+        "id": "for-profit",
+        "title": "For Profit",
+        "count": 34
+      }
+    ],
+    "hasRequiredContacts": [
+      {
+        "id": "true",
+        "title": "True",
+        "count": 1036
+      },
+      {
+        "id": "false",
+        "title": "False",
+        "count": 305
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.datacite.org/providers?page[number]=1&page[size]=1&sort=name",
+    "next": "https://api.datacite.org/providers?page%5Bnumber%5D=2&page%5Bsize%5D=1&sort%5Bdisplay_name.raw%5D%5Border%5D=asc"
+  }
+}

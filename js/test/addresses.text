@@ -1,0 +1,36 @@
+
+const options = {method: 'GET', headers: {accept: 'application/vnd.api+json'}};
+
+fetch('https://api.datacite.org/providers?
+member-type=consortium&page[number]=1&page[size]=25&sort=name', options)
+  .then(response => response.json())
+  .then(response => console.log(response))
+  .catch(err => console.error(err));
+
+
+
+const options = {method: 'GET', headers: {accept: 'application/vnd.api+json'}};
+
+fetch('https://api.test.datacite.org/providers?
+consortium-id=sfgsdf&page[cursor]=1&page[size]=0sdfg&sort=name', options)
+  .then(response => response.json())
+  .then(response => console.log(response))
+  .catch(err => console.error(err));
+
+
+  const options = {method: 'GET', headers: {accept: 'application/vnd.api+json'}};
+
+fetch('https://api.datacite.org/clients?
+provider-id=zxcv&page[number]=1&page[size]=25&sort=name', options)
+  .then(response => response.json())
+  .then(response => console.log(response))
+  .catch(err => console.error(err));
+
+const options = {method: 'GET', headers: {accept: 'application/vnd.api+json'}};
+
+fetch('https://api.datacite.org/dois?
+provider-id=bxcv&client-id=xcvb&consortium-id=xcvb&page[size]=23&page[cursor]=1&sort=name', options)
+  .then(response => response.json())
+  .then(response => console.log(response))
+  .catch(err => console.error(err));
+

@@ -1,0 +1,95 @@
+/* removing input contnet */
+.clear-adjucent-input {
+    position: relative;
+    z-index: 10 !important;
+    height: inherit;
+    max-width: 0;
+}
+.clear-adjucent-input::before {
+    content: "\2715";
+    position: absolute;
+    right: 100%;
+    top: 0;
+    height: 100%;
+    padding: .75rem;
+    padding-top: .5rem;
+    color: gray;
+    visibility: hidden;
+  
+}
+input.form-control:not(:placeholder-shown) {
+    padding-right: 2.25rem;
+}
+input.form-control:not(:placeholder-shown) + .clear-adjucent-input::before{
+    visibility: visible;
+}
+
+/* Customize scrollbar */
+/* width */
+html {        
+    --bs-btn-success: #198754d0;
+    --bs-btn-success-opacity: #198754;
+}
+::-webkit-scrollbar {
+width: .5rem;
+height: .5rem;
+}  
+/* Track */
+::-webkit-scrollbar-track {
+box-shadow: inset 0 0 5px var(--bs-btn-success); 
+border-radius: 1.5rem;
+background-color: #fff;
+}   
+/* Handle */
+::-webkit-scrollbar-thumb {
+background: var(--bs-btn-success); 
+border-radius: 1.5rem;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+background: var(--bs-btn-success-opacity); 
+}
+
+::-webkit-scrollbar-button {
+height: 0;
+}
+
+/*html {
+scrollbar-width: thin;
+scrollbar-color: var(--bs-btn-success) inherit;
+}
+html:hover {
+scrollbar-color: var(--bs-btn-success-opacity) inherit;
+}*/
+
+/* Site nuance CSS */
+main {
+    overflow: auto;
+    height: calc(100vh - 3.3rem);
+}
+
+/* scroll dropdown-menu */
+.dropdown-menu {
+    max-height: calc( .75 * 100vh);
+    resize: vertical;
+}
+
+.dropdown-item.active, 
+.dropdown-item:active {
+    background-color: var(--bs-btn-success);
+}
+.dropdown-item:hover, ::selection {
+    background-color: var(--bs-btn-success);
+    color: white;
+}
+
+.loading {
+    color: lightgray;
+    text-align: center;
+}
+
+
+
+
+

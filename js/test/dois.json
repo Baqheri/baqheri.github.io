@@ -1,0 +1,1021 @@
+{
+    "data": [
+      {
+        "id": "10.80619/doi:10.80619831h96/emg6av",
+        "type": "dois",
+        "attributes": {
+          "doi": "10.80619/doi:10.80619831h96/emg6av",
+          "identifiers": [],
+          "creators": [
+            {
+              "name": "Wei, Tong",
+              "nameType": "Personal",
+              "givenName": "Tong",
+              "familyName": "Wei",
+              "affiliation": [],
+              "nameIdentifiers": []
+            }
+          ],
+          "titles": [
+            {
+              "title": "dump_dnb_20181212_000001.ttl.gz"
+            }
+          ],
+          "publisher": "Root",
+          "container": {
+            "type": "DataRepository",
+            "identifier": "doi:10.80619/doi:10.80619831H96",
+            "identifierType": "DOI"
+          },
+          "publicationYear": 2021,
+          "subjects": [],
+          "contributors": [
+            {
+              "name": "Wei, Tong",
+              "nameType": "Personal",
+              "givenName": "Tong",
+              "familyName": "Wei",
+              "affiliation": [],
+              "contributorType": "ContactPerson",
+              "nameIdentifiers": []
+            }
+          ],
+          "dates": [
+            {
+              "date": "2021",
+              "dateType": "Issued"
+            }
+          ],
+          "language": null,
+          "types": {
+            "ris": "DATA",
+            "bibtex": "misc",
+            "citeproc": "dataset",
+            "schemaOrg": "Dataset",
+            "resourceTypeGeneral": "Dataset"
+          },
+          "relatedIdentifiers": [
+            {
+              "relationType": "IsPartOf",
+              "relatedIdentifier": "10.80619/doi:10.80619831h96",
+              "relatedIdentifierType": "DOI"
+            }
+          ],
+          "relatedItems": [],
+          "sizes": [],
+          "formats": [],
+          "version": null,
+          "rightsList": [],
+          "descriptions": [
+            {
+              "description": ":unav",
+              "descriptionType": "Abstract"
+            }
+          ],
+          "geoLocations": [],
+          "fundingReferences": [],
+          "url": "http://101.200.193.109:8080/file.xhtml?persistentId=doi:10.80619/doi:10.80619831H96/EMG6AV",
+          "contentUrl": null,
+          "metadataVersion": 0,
+          "schemaVersion": "http://datacite.org/schema/kernel-4",
+          "source": "mds",
+          "isActive": true,
+          "state": "findable",
+          "reason": null,
+          "viewCount": 0,
+          "downloadCount": 0,
+          "referenceCount": 0,
+          "citationCount": 0,
+          "partCount": 0,
+          "partOfCount": 0,
+          "versionCount": 0,
+          "versionOfCount": 0,
+          "created": "2021-01-07T04:18:15Z",
+          "registered": "2021-01-07T04:18:16Z",
+          "published": null,
+          "updated": "2022-08-18T10:31:10Z"
+        },
+        "relationships": {
+          "client": {
+            "data": {
+              "id": "uncch.pktest",
+              "type": "clients"
+            }
+          }
+        }
+      },
+      {
+        "id": "10.7490/f1000research.1154670.1",
+        "type": "dois",
+        "attributes": {
+          "doi": "10.7490/f1000research.1154670.1",
+          "identifiers": [],
+          "creators": [
+            {
+              "name": "Research Tester Automation User",
+              "affiliation": [],
+              "nameIdentifiers": []
+            }
+          ],
+          "titles": [
+            {
+              "title": "Poster Submission Test Title_2021-02-15"
+            }
+          ],
+          "publisher": "F1000 Research Limited",
+          "container": {},
+          "publicationYear": 2021,
+          "subjects": [],
+          "contributors": [],
+          "dates": [
+            {
+              "date": "2021",
+              "dateType": "Issued"
+            }
+          ],
+          "language": null,
+          "types": {
+            "ris": "GEN",
+            "bibtex": "misc",
+            "citeproc": "article",
+            "schemaOrg": "CreativeWork",
+            "resourceTypeGeneral": "Other"
+          },
+          "relatedIdentifiers": [],
+          "relatedItems": [],
+          "sizes": [],
+          "formats": [],
+          "version": null,
+          "rightsList": [],
+          "descriptions": [
+            {
+              "description": "Poster Submission Test Description",
+              "descriptionType": "Other"
+            }
+          ],
+          "geoLocations": [],
+          "fundingReferences": [],
+          "url": "https://research1.f1krdev.com/posters/10-1568",
+          "contentUrl": null,
+          "metadataVersion": 0,
+          "schemaVersion": "http://datacite.org/schema/kernel-3",
+          "source": "mds",
+          "isActive": true,
+          "state": "findable",
+          "reason": null,
+          "viewCount": 0,
+          "downloadCount": 0,
+          "referenceCount": 0,
+          "citationCount": 0,
+          "partCount": 0,
+          "partOfCount": 0,
+          "versionCount": 0,
+          "versionOfCount": 0,
+          "created": "2021-02-15T00:02:28Z",
+          "registered": "2021-02-15T00:02:29Z",
+          "published": null,
+          "updated": "2021-02-15T00:02:29Z"
+        },
+        "relationships": {
+          "client": {
+            "data": {
+              "id": "bl.f1000r",
+              "type": "clients"
+            }
+          }
+        }
+      }
+    ],
+    "meta": {
+      "total": 3519872,
+      "totalPages": 5000,
+      "page": 1,
+      "states": [
+        {
+          "id": "findable",
+          "title": "Findable",
+          "count": 3519872
+        }
+      ],
+      "resourceTypes": [
+        {
+          "id": "dataset",
+          "title": "Dataset",
+          "count": 1725747
+        },
+        {
+          "id": "physical-object",
+          "title": "Physical Object",
+          "count": 569537
+        },
+        {
+          "id": "text",
+          "title": "Text",
+          "count": 361418
+        },
+        {
+          "id": "other",
+          "title": "Other",
+          "count": 313013
+        },
+        {
+          "id": "collection",
+          "title": "Collection",
+          "count": 286134
+        },
+        {
+          "id": "image",
+          "title": "Image",
+          "count": 46924
+        },
+        {
+          "id": "software",
+          "title": "Software",
+          "count": 38299
+        },
+        {
+          "id": "dissertation",
+          "title": "Dissertation",
+          "count": 33454
+        },
+        {
+          "id": "audiovisual",
+          "title": "Audiovisual",
+          "count": 25588
+        },
+        {
+          "id": "preprint",
+          "title": "Preprint",
+          "count": 19315
+        },
+        {
+          "id": "report",
+          "title": "Report",
+          "count": 5472
+        },
+        {
+          "id": "journal-article",
+          "title": "Journal Article",
+          "count": 4990
+        },
+        {
+          "id": "interactive-resource",
+          "title": "Interactive Resource",
+          "count": 4575
+        },
+        {
+          "id": "conference-paper",
+          "title": "Conference Paper",
+          "count": 2395
+        },
+        {
+          "id": "book",
+          "title": "Book",
+          "count": 2314
+        },
+        {
+          "id": "event",
+          "title": "Event",
+          "count": 2252
+        },
+        {
+          "id": "workflow",
+          "title": "Workflow",
+          "count": 2185
+        },
+        {
+          "id": "model",
+          "title": "Model",
+          "count": 1778
+        },
+        {
+          "id": "service",
+          "title": "Service",
+          "count": 1751
+        },
+        {
+          "id": "book-chapter",
+          "title": "Book Chapter",
+          "count": 1628
+        },
+        {
+          "id": "sound",
+          "title": "Sound",
+          "count": 1598
+        },
+        {
+          "id": "computational-notebook",
+          "title": "Computational Notebook",
+          "count": 1555
+        },
+        {
+          "id": "standard",
+          "title": "Standard",
+          "count": 1530
+        },
+        {
+          "id": "journal",
+          "title": "Journal",
+          "count": 1493
+        },
+        {
+          "id": "conference-proceeding",
+          "title": "Conference Proceeding",
+          "count": 1476
+        },
+        {
+          "id": "peer-review",
+          "title": "Peer Review",
+          "count": 1470
+        },
+        {
+          "id": "data-paper",
+          "title": "Data Paper",
+          "count": 236
+        },
+        {
+          "id": "output-management-plan",
+          "title": "Output Management Plan",
+          "count": 63
+        }
+      ],
+      "created": [
+        {
+          "id": "2023",
+          "title": "2023",
+          "count": 881266
+        },
+        {
+          "id": "2022",
+          "title": "2022",
+          "count": 1559104
+        },
+        {
+          "id": "2021",
+          "title": "2021",
+          "count": 583412
+        },
+        {
+          "id": "2020",
+          "title": "2020",
+          "count": 262953
+        },
+        {
+          "id": "2019",
+          "title": "2019",
+          "count": 189718
+        },
+        {
+          "id": "2018",
+          "title": "2018",
+          "count": 38128
+        },
+        {
+          "id": "2017",
+          "title": "2017",
+          "count": 4126
+        },
+        {
+          "id": "2016",
+          "title": "2016",
+          "count": 259
+        },
+        {
+          "id": "2015",
+          "title": "2015",
+          "count": 91
+        },
+        {
+          "id": "2014",
+          "title": "2014",
+          "count": 774
+        }
+      ],
+      "published": [
+        {
+          "id": "2023",
+          "title": "2023",
+          "count": 511596
+        },
+        {
+          "id": "2022",
+          "title": "2022",
+          "count": 617756
+        },
+        {
+          "id": "2021",
+          "title": "2021",
+          "count": 591768
+        },
+        {
+          "id": "2020",
+          "title": "2020",
+          "count": 687062
+        },
+        {
+          "id": "2019",
+          "title": "2019",
+          "count": 160844
+        },
+        {
+          "id": "2018",
+          "title": "2018",
+          "count": 42763
+        },
+        {
+          "id": "2017",
+          "title": "2017",
+          "count": 45075
+        },
+        {
+          "id": "2016",
+          "title": "2016",
+          "count": 65361
+        },
+        {
+          "id": "2015",
+          "title": "2015",
+          "count": 123269
+        },
+        {
+          "id": "2014",
+          "title": "2014",
+          "count": 256474
+        },
+        {
+          "id": "2013",
+          "title": "2013",
+          "count": 20747
+        },
+        {
+          "id": "2012",
+          "title": "2012",
+          "count": 20432
+        },
+        {
+          "id": "2011",
+          "title": "2011",
+          "count": 20423
+        },
+        {
+          "id": "2010",
+          "title": "2010",
+          "count": 14599
+        }
+      ],
+      "registered": [
+        {
+          "id": "2023",
+          "title": "2023",
+          "count": 826025
+        },
+        {
+          "id": "2022",
+          "title": "2022",
+          "count": 1509830
+        },
+        {
+          "id": "2021",
+          "title": "2021",
+          "count": 494178
+        },
+        {
+          "id": "2020",
+          "title": "2020",
+          "count": 241230
+        },
+        {
+          "id": "2019",
+          "title": "2019",
+          "count": 189675
+        },
+        {
+          "id": "2018",
+          "title": "2018",
+          "count": 37922
+        },
+        {
+          "id": "2017",
+          "title": "2017",
+          "count": 1653
+        },
+        {
+          "id": "2016",
+          "title": "2016",
+          "count": 127
+        },
+        {
+          "id": "2015",
+          "title": "2015",
+          "count": 71
+        },
+        {
+          "id": "2014",
+          "title": "2014",
+          "count": 774
+        }
+      ],
+      "providers": [
+        {
+          "id": "figshare",
+          "title": "figshare",
+          "count": 802931
+        },
+        {
+          "id": "kard",
+          "title": "TEST",
+          "count": 607876
+        },
+        {
+          "id": "shaz",
+          "title": "Geoscience Australia",
+          "count": 511657
+        },
+        {
+          "id": "bl",
+          "title": "The British Library",
+          "count": 194342
+        },
+        {
+          "id": "zftj",
+          "title": "Jisc",
+          "count": 134365
+        },
+        {
+          "id": "inist",
+          "title": "Institut de l'Information Scientifique et Technique",
+          "count": 121808
+        },
+        {
+          "id": "cern",
+          "title": "CERN - European Organization for Nuclear Research",
+          "count": 118623
+        },
+        {
+          "id": "uncch",
+          "title": "University of North Carolina at Chapel Hill",
+          "count": 109385
+        },
+        {
+          "id": "omug",
+          "title": "ETH Zurich",
+          "count": 78381
+        },
+        {
+          "id": "tib",
+          "title": "German National Library of Science and Technology",
+          "count": 55990
+        }
+      ],
+      "clients": [
+        {
+          "id": "figshare.dud",
+          "title": "figshare DUD datacenter",
+          "count": 802931
+        },
+        {
+          "id": "kard.test",
+          "title": "Test Rep",
+          "count": 607876
+        },
+        {
+          "id": "shaz.ghslsk",
+          "title": "IGSN ID registration for Geoscience SAMPLES data",
+          "count": 280074
+        },
+        {
+          "id": "shaz.pzoyaz",
+          "title": "Legacy IGSN ID re-registration for Geoscience Australia SAMPLES data",
+          "count": 231583
+        },
+        {
+          "id": "bl.mendeley",
+          "title": "Mendeley Data",
+          "count": 134739
+        },
+        {
+          "id": "zftj.rvkzst",
+          "title": "Octopus Testing",
+          "count": 134365
+        },
+        {
+          "id": "cern.hepdata",
+          "title": "HEPData",
+          "count": 118160
+        },
+        {
+          "id": "uncch.inrae",
+          "title": "EOSC-MIRRI",
+          "count": 107269
+        },
+        {
+          "id": "inist.inra",
+          "title": "Institut national de recherche pour l’agriculture, l’alimentation et l’environnement",
+          "count": 92778
+        },
+        {
+          "id": "omug.semwpq",
+          "title": "Research Collection",
+          "count": 77672
+        }
+      ],
+      "affiliations": [
+        {
+          "id": "ror.org/0542q3127",
+          "title": "Lviv Polytechnic National University",
+          "count": 42972
+        },
+        {
+          "id": "ror.org/03r8z3t63",
+          "title": "UNSW Sydney",
+          "count": 25116
+        },
+        {
+          "id": "ror.org/013m0ej23",
+          "title": "Perimeter Institute",
+          "count": 8373
+        },
+        {
+          "id": "ror.org/05bnh6r87",
+          "title": "Cornell University",
+          "count": 1878
+        },
+        {
+          "id": "ror.org/041j42q70",
+          "title": "",
+          "count": 1026
+        },
+        {
+          "id": "ror.org/02skbsp27",
+          "title": "Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) Gatersleben",
+          "count": 1001
+        },
+        {
+          "id": "ror.org/05bnh6r87",
+          "title": "",
+          "count": 529
+        },
+        {
+          "id": "ror.org/03c3r2d17",
+          "title": "The Center for Astrophysics | Harvard & Smithsonian",
+          "count": 480
+        },
+        {
+          "id": "ror.org/04wxnsj81",
+          "title": "DataCite",
+          "count": 260
+        },
+        {
+          "id": "ror.org/04bs5yc70",
+          "title": "Swiss Federal Institute for Forest, Snow and Landscape Research WSL",
+          "count": 241
+        }
+      ],
+      "prefixes": [
+        {
+          "id": "10.0166",
+          "title": "10.0166",
+          "count": 802931
+        },
+        {
+          "id": "10.21984",
+          "title": "10.21984",
+          "count": 607876
+        },
+        {
+          "id": "10.82570",
+          "title": "10.82570",
+          "count": 280074
+        },
+        {
+          "id": "10.82676",
+          "title": "10.82676",
+          "count": 231583
+        },
+        {
+          "id": "10.82259",
+          "title": "10.82259",
+          "count": 134365
+        },
+        {
+          "id": "10.4124",
+          "title": "10.4124",
+          "count": 120020
+        },
+        {
+          "id": "10.17182",
+          "title": "10.17182",
+          "count": 118160
+        },
+        {
+          "id": "10.70112",
+          "title": "10.70112",
+          "count": 92778
+        },
+        {
+          "id": "10.3929",
+          "title": "10.3929",
+          "count": 77672
+        },
+        {
+          "id": "10.21386",
+          "title": "10.21386",
+          "count": 63638
+        }
+      ],
+      "certificates": [
+        {
+          "id": "CoreTrustSeal",
+          "title": "Core Trust Seal",
+          "count": 10393
+        },
+        {
+          "id": "DIN 31644",
+          "title": "Din 31644",
+          "count": 3543
+        },
+        {
+          "id": "WDS",
+          "title": "Wds",
+          "count": 1822
+        },
+        {
+          "id": "DSA",
+          "title": "Dsa",
+          "count": 1770
+        },
+        {
+          "id": "DINI",
+          "title": "Dini",
+          "count": 477
+        }
+      ],
+      "licenses": [
+        {
+          "id": "cc-by-4.0",
+          "title": "CC-BY-4.0",
+          "count": 377514
+        },
+        {
+          "id": "cc0-1.0",
+          "title": "CC0-1.0",
+          "count": 213770
+        },
+        {
+          "id": "mit",
+          "title": "MIT",
+          "count": 195017
+        },
+        {
+          "id": "cc by-nc-nd 3.0",
+          "title": "cc by-nc-nd 3.0",
+          "count": 24191
+        },
+        {
+          "id": "cc-by-nc-4.0",
+          "title": "CC-BY-NC-4.0",
+          "count": 17329
+        },
+        {
+          "id": "arxiv.org perpetual, non-exclusive license",
+          "title": "arxiv.org perpetual, non-exclusive license",
+          "count": 13477
+        },
+        {
+          "id": "cc-by-sa-4.0",
+          "title": "CC-BY-SA-4.0",
+          "count": 5132
+        },
+        {
+          "id": "ogl-canada-2.0",
+          "title": "OGL-Canada-2.0",
+          "count": 5066
+        },
+        {
+          "id": "cc-pdm-1.0",
+          "title": "cc-pdm-1.0",
+          "count": 2585
+        },
+        {
+          "id": "cc0 1.0",
+          "title": "cc0 1.0",
+          "count": 2534
+        }
+      ],
+      "schemaVersions": [
+        {
+          "id": "4",
+          "title": "Schema 4",
+          "count": 2262419
+        },
+        {
+          "id": "3",
+          "title": "Schema 3",
+          "count": 33189
+        },
+        {
+          "id": "4.3",
+          "title": "Schema 4.3",
+          "count": 2132
+        },
+        {
+          "id": "4.4",
+          "title": "Schema 4.4",
+          "count": 468
+        },
+        {
+          "id": "1",
+          "title": "Schema 1",
+          "count": 308
+        },
+        {
+          "id": "4",
+          "title": "Schema 4",
+          "count": 225
+        },
+        {
+          "id": "2",
+          "title": "Schema 2",
+          "count": 104
+        },
+        {
+          "id": "4.4/metadata.xsd",
+          "title": "Schema 4.4/metadata.xsd",
+          "count": 69
+        },
+        {
+          "id": "V1",
+          "title": "Schema V1",
+          "count": 64
+        },
+        {
+          "id": "4",
+          "title": "Schema 4",
+          "count": 42
+        }
+      ],
+      "linkChecksStatus": [
+        {
+          "id": "200",
+          "title": "200",
+          "count": 93715
+        },
+        {
+          "id": "404",
+          "title": "404",
+          "count": 20996
+        },
+        {
+          "id": "403",
+          "title": "403",
+          "count": 10244
+        },
+        {
+          "id": "502",
+          "title": "502",
+          "count": 5527
+        },
+        {
+          "id": "401",
+          "title": "401",
+          "count": 4219
+        },
+        {
+          "id": "503",
+          "title": "503",
+          "count": 3344
+        },
+        {
+          "id": "400",
+          "title": "400",
+          "count": 1961
+        },
+        {
+          "id": "500",
+          "title": "500",
+          "count": 1141
+        },
+        {
+          "id": "405",
+          "title": "405",
+          "count": 92
+        },
+        {
+          "id": "300",
+          "title": "300",
+          "count": 13
+        }
+      ],
+      "subjects": [
+        {
+          "id": "Anatomy",
+          "title": "Anatomy",
+          "count": 156724
+        },
+        {
+          "id": "FOS: Clinical medicine",
+          "title": "Fos: Clinical Medicine",
+          "count": 148443
+        },
+        {
+          "id": "Allergy",
+          "title": "Allergy",
+          "count": 139732
+        },
+        {
+          "id": "IFN3",
+          "title": "Ifn3",
+          "count": 109576
+        },
+        {
+          "id": "1,4 x 1,4 km Netz",
+          "title": "1,4 X 1,4 Km Netz",
+          "count": 80055
+        },
+        {
+          "id": "1.4 x 1.4 km grid",
+          "title": "1.4 X 1.4 Km Grid",
+          "count": 80055
+        },
+        {
+          "id": "reticolo 1,4 x 1,4 km",
+          "title": "Reticolo 1,4 X 1,4 Km",
+          "count": 80055
+        },
+        {
+          "id": "réseau 1,4 x 1,4 km",
+          "title": "Réseau 1,4 X 1,4 Km",
+          "count": 80055
+        },
+        {
+          "id": "Waldfläche",
+          "title": "Waldfläche",
+          "count": 69721
+        },
+        {
+          "id": "forest area",
+          "title": "Forest Area",
+          "count": 69720
+        }
+      ],
+      "fieldsOfScience": [
+        {
+          "id": "clinical_medicine",
+          "title": "Clinical medicine",
+          "count": 148443
+        },
+        {
+          "id": "mechanical_engineering",
+          "title": "Mechanical engineering",
+          "count": 52852
+        },
+        {
+          "id": "physical_sciences",
+          "title": "Physical sciences",
+          "count": 20801
+        },
+        {
+          "id": "mathematics",
+          "title": "Mathematics",
+          "count": 16979
+        },
+        {
+          "id": "computer_and_information_sciences",
+          "title": "Computer and information sciences",
+          "count": 14936
+        },
+        {
+          "id": "psychology",
+          "title": "Psychology",
+          "count": 13800
+        },
+        {
+          "id": "biological_sciences",
+          "title": "Biological sciences",
+          "count": 12371
+        },
+        {
+          "id": "other_agricultural_sciences",
+          "title": "Other agricultural sciences",
+          "count": 10737
+        },
+        {
+          "id": "chemical_sciences",
+          "title": "Chemical sciences",
+          "count": 8298
+        },
+        {
+          "id": "economics_and_business",
+          "title": "Economics and business",
+          "count": 8013
+        }
+      ],
+      "citations": [],
+      "views": [],
+      "downloads": []
+    },
+    "links": {
+      "self": "https://api.test.datacite.org/dois?page[size]=2&sort=relevance",
+      "next": "https://api.test.datacite.org/dois?page%5Bnumber%5D=2&page%5Bsize%5D=2"
+    }
+  }

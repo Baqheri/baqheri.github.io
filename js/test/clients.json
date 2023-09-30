@@ -1,0 +1,304 @@
+{
+  "data": [
+    {
+      "id": "gesis.rki",
+      "type": "clients",
+      "attributes": {
+        "name": "'Health Monitoring' Research Data Centre at the Robert Koch Institute",
+        "symbol": "GESIS.RKI",
+        "year": 2012,
+        "alternateName": "Research Data Centre of the Robert Koch Institute",
+        "description": "The Research Data Centre of the Robert Koch Institute (FDZ RKI) publishes the data of population-representative health surveys in the form of public use files (PUFs).The main purpose of health surveys is to generate a maximum amount of information on the state of health and health-related behaviour of Germany's resident population while ensuring an optimum use of funds. The methodology - i.e. the sample design, the principles on operationalization and measurement, and data-collection techniques - is largely modelled on the tried-and-tested methods of empirical social research. Health interview surveys (HIS) use established survey techniques such as filling out questionnaires, computer-assisted telephone interviews (CATI), computer-assisted personal interviews (CAPI), and online polling via the internet or email. The main difference compared to purely sociological surveys lies in the additional biomedical examinations, tests and medical-biochemical measurements, which generate significant added value in addition to the results of the surveys; this part is referred to internationally as the health examination survey (HES).",
+        "language": [
+          "en",
+          "de"
+        ],
+        "clientType": "repository",
+        "domains": "*",
+        "re3data": "https://doi.org/10.17616/R3K31G",
+        "opendoar": null,
+        "issn": {},
+        "url": "https://www.rki.de/DE/Content/Forsch/FDZ/FDZ_node.html",
+        "created": "2012-11-15T15:21:43Z",
+        "updated": "2023-04-24T19:21:43Z",
+        "isActive": true
+      },
+      "relationships": {
+        "provider": {
+          "data": {
+            "id": "epua",
+            "type": "providers"
+          }
+        },
+        "consortium": {
+          "data": {
+            "id": "daraco",
+            "type": "providers"
+          }
+        },
+        "prefixes": {
+          "data": [
+            {
+              "id": "10.7797",
+              "type": "prefixes"
+            },
+            {
+              "id": "10.17886",
+              "type": "prefixes"
+            },
+            {
+              "id": "10.18444",
+              "type": "prefixes"
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "total": 2856,
+    "totalPages": 2856,
+    "page": 1,
+    "years": [
+      {
+        "id": "2023",
+        "title": "2023",
+        "count": 212
+      },
+      {
+        "id": "2022",
+        "title": "2022",
+        "count": 344
+      },
+      {
+        "id": "2021",
+        "title": "2021",
+        "count": 364
+      },
+      {
+        "id": "2020",
+        "title": "2020",
+        "count": 471
+      },
+      {
+        "id": "2019",
+        "title": "2019",
+        "count": 340
+      },
+      {
+        "id": "2018",
+        "title": "2018",
+        "count": 346
+      },
+      {
+        "id": "2017",
+        "title": "2017",
+        "count": 195
+      },
+      {
+        "id": "2016",
+        "title": "2016",
+        "count": 152
+      },
+      {
+        "id": "2015",
+        "title": "2015",
+        "count": 134
+      },
+      {
+        "id": "2014",
+        "title": "2014",
+        "count": 93
+      }
+    ],
+    "providers": [
+      {
+        "id": "qjzc",
+        "title": "Deactivated repositories",
+        "count": 88
+      },
+      {
+        "id": "rads",
+        "title": "Russian Agency for Digital Standardization",
+        "count": 88
+      },
+      {
+        "id": "cqik",
+        "title": "Repositories moving to a different RA",
+        "count": 71
+      },
+      {
+        "id": "jbru",
+        "title": "French National Centre for Scientific Research",
+        "count": 69
+      },
+      {
+        "id": "sjkb",
+        "title": "MTAKIK bucket",
+        "count": 67
+      },
+      {
+        "id": "vcob",
+        "title": "CNRS-Bucket",
+        "count": 53
+      },
+      {
+        "id": "ivuw",
+        "title": "Fundação para a Ciência e Tecnologia",
+        "count": 48
+      },
+      {
+        "id": "wfnq",
+        "title": "ZB MED Bucket",
+        "count": 41
+      },
+      {
+        "id": "ardcx",
+        "title": "Australian Research Data Commons",
+        "count": 40
+      },
+      {
+        "id": "cnrst",
+        "title": "Centre National pour la Recherche Scientifique et Technique (CNRST)",
+        "count": 36
+      }
+    ],
+    "software": [
+      {
+        "id": "other",
+        "title": "Other",
+        "count": 84
+      },
+      {
+        "id": "dspace",
+        "title": "DSpace",
+        "count": 49
+      },
+      {
+        "id": "open_journal_systems_ojs",
+        "title": "Open Journal Systems (OJS)",
+        "count": 44
+      },
+      {
+        "id": "dataverse",
+        "title": "Dataverse",
+        "count": 32
+      },
+      {
+        "id": "invenio",
+        "title": "Invenio",
+        "count": 18
+      },
+      {
+        "id": "eprints",
+        "title": "EPrints",
+        "count": 11
+      },
+      {
+        "id": "ckan",
+        "title": "CKAN",
+        "count": 8
+      },
+      {
+        "id": "opus",
+        "title": "OPUS",
+        "count": 6
+      },
+      {
+        "id": "samvera",
+        "title": "Samvera",
+        "count": 6
+      },
+      {
+        "id": "islandora",
+        "title": "Islandora",
+        "count": 5
+      }
+    ],
+    "certificates": [
+      {
+        "id": "CoreTrustSeal",
+        "title": "Core Trust Seal",
+        "count": 17
+      },
+      {
+        "id": "DINI",
+        "title": "Dini",
+        "count": 7
+      },
+      {
+        "id": "WDS",
+        "title": "Wds",
+        "count": 6
+      },
+      {
+        "id": "DSA",
+        "title": "Dsa",
+        "count": 4
+      },
+      {
+        "id": "RatSWD",
+        "title": "Rat Swd",
+        "count": 4
+      },
+      {
+        "id": "DIN 31644",
+        "title": "Din 31644",
+        "count": 1
+      }
+    ],
+    "repository_types": [
+      {
+        "id": "institutional",
+        "title": "Institutional",
+        "count": 434
+      },
+      {
+        "id": "disciplinary",
+        "title": "Disciplinary",
+        "count": 137
+      },
+      {
+        "id": "multidisciplinary",
+        "title": "Multidisciplinary",
+        "count": 83
+      },
+      {
+        "id": "project-related",
+        "title": "Project Related",
+        "count": 39
+      },
+      {
+        "id": "other",
+        "title": "Other",
+        "count": 34
+      },
+      {
+        "id": "governmental",
+        "title": "Governmental",
+        "count": 33
+      }
+    ],
+    "clientTypes": [
+      {
+        "id": "repository",
+        "title": "Repository",
+        "count": 2565
+      },
+      {
+        "id": "periodical",
+        "title": "Periodical",
+        "count": 268
+      },
+      {
+        "id": "igsnCatalog",
+        "title": "IGSN ID Catalog",
+        "count": 23
+      }
+    ]
+  },
+  "links": {
+    "self": "https://api.datacite.org/clients?page[number]=1&page[size]=1&sort=name",
+    "next": "https://api.datacite.org/clients?page%5Bnumber%5D=2&page%5Bsize%5D=1&sort=name"
+  }
+}
